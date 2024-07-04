@@ -2,21 +2,25 @@
     { 
         "id": 1, 
         "name": "Produit 1", 
+        "image": "image1.jpg",
         "price": 10.99 
     },
     { 
         "id": 2, 
-        "name": "Produit 2", 
+        "name": "Produit 2",
+        "image": "image2.jpg", 
         "price": 15.50 
     },
     { 
         "id": 3, 
-        "name": "Produit 3", 
+        "name": "Produit 3",
+        "image": "image3.jpg", 
         "price": 22.00 
     },
     { 
         "id": 4, 
-        "name": "Produit 4", 
+        "name": "Produit 4",
+        "image": "image4.jpg", 
         "price": 12.00 
     }
   ]
