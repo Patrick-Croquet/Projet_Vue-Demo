@@ -7,3 +7,5 @@ import Products from '../components/Products.vue'
     <Products />
   </main>
 </template>
+
+<style></style>

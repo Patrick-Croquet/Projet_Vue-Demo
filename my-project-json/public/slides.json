@@ -1,0 +1,26 @@
+{   
+    "time": 
+    {   "updated": "Jul 10, 2024 14:50:00 UTC", 
+        "updatedISO": "2024-07-10T14:50:00+00:00", 
+        "updateduk": "Jul 10, 2024 at 14:50 GMT" 
+    }, 
+    "disclaimer": "This data was produced from slides", 
+    "chartName": "slides", 
+    "slides":[
+        {
+            "id":1,
+            "titre":"First slide label",
+            "image":"montagne1.jpg"
+        },
+        {
+            "id":2,
+            "titre":"Second slide label",
+            "image":"montagne2.jpg"
+        },
+        {
+            "id":3,
+            "titre":"Third slide label",
+            "image":"montagne4.jpg"
+        }
+    ]
+}

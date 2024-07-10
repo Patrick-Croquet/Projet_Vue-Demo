@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="products">
       <h2>Produits</h2>
       <ul>
         <li v-for="product in products" :key="product.id">
@@ -34,6 +34,32 @@
     },
     };
 </script>
+
+<style scoped>
+.products {
+    display: flex;
+    align-items:center;
+
+    background-image: url("images/fond.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2em;
+    
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+
+img
+{
+    vertical-align: middle; /* | top | bottom */
+}
+
+ul {
+  list-style-type: none;
+}
+</style>
+
 
   
   
