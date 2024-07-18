@@ -16,12 +16,6 @@
         "name": "Produit 3",
         "image": "image3.jpg", 
         "price": 22.00 
-    },
-    { 
-        "id": 4, 
-        "name": "Produit 4",
-        "image": "image4.jpg", 
-        "price": 12.00 
     }
   ]
   
